@@ -1,0 +1,1 @@
+# checkers-move-generator
